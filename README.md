@@ -1,19 +1,12 @@
-# Bio-Hotspots Web
+# Flood & Rainfall map
 ## Introduction
-This website has been developed for the 2023 NASA Space Apps Challenge, under the project title **'Exploring Biodiversity Hotspots with Imaging Spectroscopy.'** Our primary objective is to utilize spectral diversity as an indicator of leaf trait variability to uncover biodiversity hotspots among plant species.
+This website has been developed for the 2024 NASA Space Apps Challenge, under the project title **'Landsat Reflectance Data: On the Fly and at Your Fingertips
+'** In this project, we create a tool for flood forecasting and prevention, protecting communities and minimizing damages.
 
-The website is divided into four main sections, including an **interactive map**, an **introduction**, an **analysis**, and a **reference** page.
+The website has four main sections, including an **interactive map**, an **introduction**, an **analysis**, and a **reference** page.
 
-Team Member: HUI-CHU CHEN, YUNG-TSAI LAI, HSIANG TUAN, TZU-WEI YANG
+Team Member: 
 
-## Run the project
-### Publish version
-We deploy the website on the environment provided by github, so you can open this product directly through the link below.
-
-[Project : Bio-Hotspots](https://huichu1005.github.io/map/)
-### Development version
-If you only want to run the project, you can 
-click directly on the ```index.html``` file.
 
 ## Different pages
 
